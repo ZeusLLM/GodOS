@@ -10,13 +10,6 @@
 
 </div>
 
-
-## 🚩 Overview
-
-<div align="center">
-  <img src="./docs/static/img/GodOS_diagram.png" alt="GodOS Diagram" width="100%" />
-</div>
-
 ## ✨ Features
 
 - 🛠️ Full-featured Discord, Twitter and Telegram connectors
