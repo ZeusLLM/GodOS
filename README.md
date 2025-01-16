@@ -6,8 +6,6 @@
 
 <div align="center">
 
-📖 [Documentation]() | 🎯 [Examples]()
-
 </div>
 
 ## ✨ Features
